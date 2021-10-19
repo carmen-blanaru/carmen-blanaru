@@ -22,7 +22,7 @@ J'ai intégré l'école O'clock où j'ai suivi une formation intensive et à dis
 
 ### Qu'est-ce que je sais faire? �👩‍💻 
 
-  Hardskills    |   Softskills
+  Hard skills   |   Soft skills
   -----------   |   -------------
  ![icone html](images/html_original_wordmark_logo_icon_146478.png) | Force de proposition 
  ![icone css](images/css_original_wordmark_logo_icon_146576.png) | Rigueur 
