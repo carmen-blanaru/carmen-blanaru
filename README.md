@@ -37,7 +37,7 @@ J'ai intégré l'école O'clock où j'ai suivi une formation intensive et à dis
 
  ### Vous pouvez me retrouver sur les réseaux sociaux 🧚‍♀️ 
 
- * [LinkedIn](https://www.linkedin.com/in/carmen-blanaru-a7b79a1a0/)
+ * [LinkedIn](https://www.linkedin.com/in/carmen-blanaru/)
  * [Twitter](https://twitter.com/carmen_blanaru?t=LgRNsR3up5JSK9tta39ztw&s=03)
  * [Facebook](https://www.facebook.com/monica.blanaru.3)
 
@@ -52,9 +52,9 @@ Lors du mois d'apothéose, nous avons du réaliser un projet en équipe. Utilisa
 
 ### Projets en cours de développement ☕
 
-Actuellement, je suis en train de développer un petit projet personnel en php et symfony sur un coffee shop imaginaire. Grande amateure de café, je souhaite mettre en place un site vitrine destiné aux amoureux de café. Le site contiendra des informations sur l'établissement, ses horaires d'ouverture, les origines de son café ainsi que les assortiments de café proposés.  
+Actuellement, je suis en train de développer un petit projet personnel en php sur un coffee shop imaginaire. Grande amateure de café, je souhaite mettre en place un site vitrine destiné aux amoureux de café. Le site contiendra des informations sur l'établissement, ses horaires d'ouverture, les origines de son café ainsi que les assortiments de café proposés.  
 
-* php/symfony - CoffeeTime 
+* php - CoffeeTime 
   
 
 ### Me connaitre davantage 🧝‍♀️
